@@ -1,13 +1,16 @@
-## Como iniciar o projeto
+# Axios App 2.0
 
-O projeto faz conexão com uma API e não funciona sem ela, portanto, ela deve ser iniciada desde o início. Para isso, siga as instruções no [repositório](https://github.com/pedrorreiro/axios-api).
+> Essa é uma versão alternativa com algumas funcionalidades/mudanças na aplicação que decidi fazer para melhorar um pouco mais a experiência do usuário.
 
-Após isso, clone este projeto, abra o terminal na pasta e execute os seguintes comandos:
+Caso tenha dúvidas de como iniciar o projeto ou até mesmo utilizar, leia as intruções no [repositório do projeto principal](https://github.com/pedrorreiro/axios-api).
 
-```npm install``` para instalar as dependências do projeto.</br>
-```npm start``` para iniciar o projeto.
+------------
 
-### Credenciais para login na aplicação
+## 🛠️ Alterações
 
-    E-mail: pedro@gmail.com
-    Senha: pedro123
+* Feedback de **loading** da tela de login;
+* Botão de Logout;
+* No menu, a **cor** da opção quando é selecionada foi ajustada com a temática da página;
+* Avatar personalizado com mensagem de boas-vindas;
+* Campo de busca de itens por nome;
+* Animação na busca de itens
