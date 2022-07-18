@@ -1,4 +1,4 @@
-# Axios App 2.0
+# Axion App 2.0
 
 > Essa é uma versão alternativa com algumas funcionalidades/mudanças na aplicação que decidi fazer para melhorar um pouco mais a experiência do usuário.
 
